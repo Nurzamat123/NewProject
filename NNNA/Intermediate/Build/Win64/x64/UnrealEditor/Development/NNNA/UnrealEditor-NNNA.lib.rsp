@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NNNA.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\NNNAEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\NNNA.init.gen.cpp.obj"
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\NNNACharacter.gen.cpp.obj"
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\NNNAGameMode.gen.cpp.obj"
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\NNNA.cpp.obj"
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\NNNACharacter.cpp.obj"
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\NNNAGameMode.cpp.obj"
+"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\Default.rc2.res"
+/OUT:"D:\NewProject\NNNA\Intermediate\Build\Win64\x64\UnrealEditor\Development\NNNA\UnrealEditor-NNNA.lib"

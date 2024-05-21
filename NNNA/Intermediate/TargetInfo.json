@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NNNA",
+			"Path": "..\\Source\\NNNA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NNNAEditor",
+			"Path": "..\\Source\\NNNAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
